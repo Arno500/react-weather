@@ -1,0 +1,12 @@
+.weather-fragment {
+  display: inline-block;
+  text-align: center;
+  scroll-snap-align: start;
+}
+
+.weather-fragment-wrapper {
+  height: 60vh;
+  width: 14em;
+  overflow: hidden;
+  margin: 0 1em;
+}

@@ -1,0 +1,7 @@
+.weather-icon {
+  object-fit: cover;
+  margin: -7em -1em -7em -1em;
+  height: 300px;
+  transform: translate(-15px, -45px);
+  z-index: -5;
+}

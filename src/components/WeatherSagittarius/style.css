@@ -1,0 +1,10 @@
+.weather-wind-icon {
+  height: 50px;
+  width: 50px;
+}
+
+.weather-wind-speed {
+  display: inline-block;
+  transform: translateY(-20px);
+  margin-left: 0.3em;
+}

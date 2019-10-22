@@ -1,0 +1,12 @@
+.weather-container {
+  display: flex;
+  width: 100%;
+  overflow-x: auto;
+  padding-left: 0;
+  overflow-y: hidden;
+  scroll-snap-type: x proximity;
+}
+
+.city {
+  text-align: center;
+}
